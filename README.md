@@ -26,7 +26,7 @@ How It Works
 
 Live Demo
 
-A live demo of the simulation is hosted via a website. You can view the demo by visiting the following link: [Demo Website](#) ([Link to your demo website here](https://buernortey67.github.io/Fire-Emergency-Simulation/)).
+A live demo of the simulation is hosted via a website. You can view the demo by visiting the following link: [Demo Website](https://buernortey67.github.io/Fire-Emergency-Simulation/).
 
 Project Files
 
